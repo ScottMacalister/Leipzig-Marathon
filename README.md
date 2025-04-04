@@ -14,7 +14,6 @@ I used Selenium to scrape the race results from this website: https://leipzigmar
 - ⏱️ Explore finish time distributions by year with adjustable bin sizes
 - 🎨 Colour distributions by age group (`<30`, `30–39`, `40–49`, `50–59`, `>60`)
 - 🔎 Search for individual runners by name and see how they performed over time
-- 📌 Red X markers show individual results overlaid on the trendline
 
 ## Notes
 
@@ -23,3 +22,5 @@ Find more infomation about the Leipzig Marathon here: https://leipzigmarathon.de
 There was no data available for 1999 and 2022 on the official website.
 
 The races in 2020 and 2021 were held as 'virtuelle Läufe' (virtual runs) due to COVID-19.
+
+One feature (📌 Red X markers show individual results overlaid on the trendline) was removed to ensure GDPR compliance.
