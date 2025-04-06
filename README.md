@@ -8,6 +8,8 @@ In this project, I explore historic race results from the Leipzig Marathon.
 
 I used Selenium to scrape the race results from this website: https://leipzigmarathon.de/ergebnis-suche/
 
+I respected the site's robots.txt directives and included short delays after each interaction to avoid overloading the server.
+
 ## 🔍 Features
 
 - 📊 Track yearly trends: Total participants, fastest time, and average finish time
